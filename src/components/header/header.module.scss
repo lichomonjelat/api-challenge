@@ -1,0 +1,14 @@
+.header{
+    background-color: #ffff;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    z-index: 10;
+    height: 4rem;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 200;
+    }
+}
